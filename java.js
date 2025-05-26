@@ -23,7 +23,7 @@ console.log(img);
 function fm (text,url,b,d){
 par.innerHTML = text;
 img.src = url;
-document.querySelector('body').style.backgroundColor =b;
+document.querySelector('body').style.backgroundColor =b; 
 document.querySelector('body').style.color =d;
 
 };
